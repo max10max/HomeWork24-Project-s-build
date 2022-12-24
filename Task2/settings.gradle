@@ -1,0 +1,5 @@
+rootProject.name = 'Task2'
+include 'service'
+include 'api'
+include 'db'
+
